@@ -1,0 +1,1 @@
+INSERT INTO User (username, password, email, mobile) VALUES ('bkhaneja3','admin','admin', 1234567898);
